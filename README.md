@@ -6,7 +6,7 @@ Learn Web Development from Top Articles of 2017
 
 Between Jan~Dec 2017, we’ve compared nearly 16,000 Web Development articles to pick the Top 45.
 
-We believe learning from web developers who have hands-on experience in the field is a great way to advance your career. This directory is designed to make your life easier as it organizes the most useful tutorials written in 2017, where experienced web developers share their lessons in building and shipping a web application.
+We believe learning from web developers who have hands-on experience in the field is a great way to advance your career. This directory is designed to make your life easier as it organizes the most useful tutorials written in 2017, where experienced web developers share their lessons in building and shipping a web application..
 
 This directory has 20 key topics:
 
@@ -21,13 +21,13 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/oh4HXE
 1. [AWS](#aws)
 1. [Docker](#docker)
 1. [Security](#security)
-1. [Best Coding Practices](#best-coding -practices)
+1. [Best Coding Practices](#best-coding-practices)
 1. [Git](#git)
 1. [Google Analytics](#google-analytics)
 1. [Bootstrap](#bootstrap)
 1. [HTTPS](#https)
 1. [Vim](#vim)
-1. [Web Font](#web -font)
+1. [Web Font](#web-font)
 1. [HTML Email](#html-email)
 1. [WebAssembly](#webassembly)
 1. [Chrome DevTools](#chrome-devtools)
