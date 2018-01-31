@@ -3,6 +3,7 @@ Learn Web Development from Top Articles of 2017
 
 <img src="background.png" width="800" alt="Mybridge"></a>
 
+[English Version](./README.md) | [中文版本](./CN.md)
 
 Between Jan~Dec 2017, we’ve compared nearly 16,000 Web Development articles to pick the Top 45.
 
